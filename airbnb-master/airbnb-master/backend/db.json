@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "a title",
+      "email": "azilebili@gmail.com",
+      "phone": "083 7721 866"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "084 1234 567"
+    },
+    {
+      "id": "3",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "084 2345 678"
+    },
+    {
+      "id": "4",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "084 3456 789"
+    },
+    {
+      "id": "5",
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "phone": "084 4567 890"
+    },
+    {
+      "id": "6",
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "phone": "084 5678 901"
+    },
+    {
+      "id": "7",
+      "name": "Diana Evans",
+      "email": "diana.evans@example.com",
+      "phone": "084 6789 012"
+    },
+    {
+      "id": "8",
+      "name": "Ethan Foster",
+      "email": "ethan.foster@example.com",
+      "phone": "084 7890 123"
+    },
+    {
+      "id": "9",
+      "name": "Fiona Green",
+      "email": "fiona.green@example.com",
+      "phone": "084 8901 234"
+    },
+    {
+      "id": "b5b5"
+    },
+    {
+      "id": "64b1",
+      "name": "siphamandla"
+    },
+    {
+      "id": "6add",
+      "email": "azilebili@gmail.com",
+      "password": "222333"
+    },
+    {
+      "email": "azilebili@gmai.com",
+      "password": "$2a$10$9XQeHvsSZ305FsumcAesD.uLrM84BcMwVnFM3e5FUau072Qs9rjhW",
+      "id": "XjaaqTT"
+    },
+    {
+      "email": "azilli@gmail.com",
+      "password": "$2a$10$o2T8elD0rUuqrn4jKw3b/OcKnzfZguxBrTsqPIeaTOWmkFwW5Q/va",
+      "id": "E7NOpL5"
+    },
+    {
+      "email": "siphabili@gmail.com",
+      "password": "$2a$10$hSyMFsZGNSrwuupv7QK7Au268Pwz.Ow.rax9d6pxgh1h6Cd7Fz2Mi",
+      "id": "PzjrRmS"
+    },
+    {
+      "email": "bili@gmail.com",
+      "password": "$2a$10$xnU5fsSOWd6UMJW3p/y4JOPxhZ4HrAoBdVC2MJXGwOK29sIbOKuOa",
+      "id": "AMqzQ42"
+    },
+    {
+      "email": "pass@gmail.com",
+      "password": "$2a$10$vS/q65ewoRd7.hdYQoLEd.zvgZkGSQT6cMXmLjhwPW3zIPwzvgYP2",
+      "id": "nda9mK_"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "startDate": "2024-12-03",
+      "endDate": "2024-12-10",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "startDate": "2024-12-15",
+      "endDate": "2024-12-20",
+      "userId": "2"
+    },
+    {
+      "id": "3",
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-05",
+      "userId": "3"
+    },
+    {
+      "id": "4",
+      "startDate": "2024-10-20",
+      "endDate": "2024-10-25",
+      "userId": "2"
+    },
+    {
+      "id": "5",
+      "startDate": "2024-09-10",
+      "endDate": "2024-09-15",
+      "userId": "5"
+    },
+    {
+      "id": "6",
+      "startDate": "2024-08-05",
+      "endDate": "2024-08-10",
+      "userId": "1"
+    },
+    {
+      "id": "7",
+      "startDate": "2024-07-20",
+      "endDate": "2024-07-25",
+      "userId": "1"
+    }
+  ],
+  "listing":[
+    {
+      "src": "https://media.cntraveler.com/photos/589df60a9b67416638b3bf66/master/w_1200,c_limit/luxury-retreats-cr-courtesy.jpg?mbid=social_retweet",
+      "title": "Modern Apartment",
+      "description": "A modern apartment in the city center with 2 bedrooms and 2 bathrooms.",
+      "price": 1200
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.kpA3q6Y1Xz-FnQv2D3lzCgHaE8?rs=1&pid=ImgDetMain",
+      "title": "Cozy Cottage",
+      "description": "A cozy cottage in the countryside, perfect for a weekend getaway.",
+      "price": 800
+    },
+    {
+      "src": "https://www.dreamystays.com/wp-content/uploads/2017/11/airbnb-kauai-anahola-ultra-luxury.jpg",
+      "title": "Luxury Villa",
+      "description": "A luxury villa with a private pool and stunning sea views.",
+      "price": 5000
+    },
+    {
+      "src": "https://www.dreamystays.com/wp-content/uploads/2020/07/9c7d2253-ce5a-4777-9ee7-89c7bddf92e3.jpg",
+      "title": "Studio Apartment",
+      "description": "A compact studio apartment, ideal for singles or couples.",
+      "price": 600
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.7awh0xcXpJW4znZ-AenO_AHaEX?rs=1&pid=ImgDetMain",
+      "title": "Beach House",
+      "description": "A beautiful beach house with direct access to the beach.",
+      "price": 3500
+    }
+  ]
+}

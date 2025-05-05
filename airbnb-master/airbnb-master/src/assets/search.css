@@ -1,0 +1,46 @@
+.search-date {
+    position: absolute;
+    top: 35px;
+    left: 38%;
+    width: 10vw;
+  }
+  
+  .search-date > h2 {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 334px;
+    padding: 10px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 380px;
+  }
+  
+  .search-date > input {
+    width: 334px;
+    padding: 20px;
+    position: absolute;
+    left: 0;
+    height: 30px;
+    top: 420px;
+    border: none;
+  }
+  
+  .search-date > input:focus {
+    outline-width: 0;
+  }
+  
+  
+  .search-date  .btn{
+    background-color: #ff7779;
+    color: white;
+  }
+  .peopleIcon{
+    padding-left: 10px;
+    font-size: 32px;
+  }
+
+  .rdrDefinedRangesWrapper {
+    display: none;
+}
